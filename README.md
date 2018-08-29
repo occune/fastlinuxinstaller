@@ -1,2 +1,2 @@
 # fastlinuxinstaller
-i dont know what is that,really
+i dont know what is that, really
